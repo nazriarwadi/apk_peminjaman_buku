@@ -1,0 +1,15 @@
+{
+    "workbench.editor.enablePreviewFromCodeNavigation": false,
+    "editor.suggest.preview": false,
+    "dart.previewFlutterUiGuides": true,
+    "dart.previewFlutterUiGuidesCustomTracking": false,
+    "dart.enableCompletionCommitCharacters": false,
+    "markdown.preview.breaks": true,
+    "workbench.tree.renderIndentGuides": "always",
+    "editor.language.colorizedBracketPairs": [],
+    "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+    "editor.guides.bracketPairs": true,
+    "editor.guides.bracketPairsHorizontal": false,
+    "indentRainbow.indicatorStyle": "light",
+    "powershell.codeFormatting.pipelineIndentationStyle": "NoIndentation"
+}
